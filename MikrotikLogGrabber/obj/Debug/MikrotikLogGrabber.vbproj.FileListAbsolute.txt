@@ -1,0 +1,11 @@
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\MikrotikLogGrabber.exe
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\MikrotikLogGrabber.pdb
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\MikrotikLogGrabber.xml
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\MySql.Data.dll
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\Renci.SshNet.dll
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\bin\Debug\Renci.SshNet.xml
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\obj\Debug\MikrotikLogGrabber.Resources.resources
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\obj\Debug\MikrotikLogGrabber.vbproj.GenerateResource.Cache
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\obj\Debug\MikrotikLogGrabber.exe
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\obj\Debug\MikrotikLogGrabber.xml
+C:\Users\MTID_01\Documents\@Coding\MikrotikLogGrabber\MikrotikLogGrabber\obj\Debug\MikrotikLogGrabber.pdb
